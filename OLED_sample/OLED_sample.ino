@@ -1,3 +1,9 @@
+/*
+ *Author : Mtheto Sinjani
+ *Global Health Informatics Institute
+ *www.ghii.org
+*/
+
 // Include Wire Library for I2C
 #include <Wire.h>
  
